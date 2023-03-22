@@ -1,4 +1,4 @@
-# Subsidy Predictor
+# Subsidy Authenticator
 
 ## Problem statement :
 
